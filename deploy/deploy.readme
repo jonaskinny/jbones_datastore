@@ -1,0 +1,4 @@
+~-config.jar is used at runtime to supply this core project with properties 
+typically supplied by the application using the core project ... ~-config.jar
+is used to test (run main, junit etc) on the core project in stand-alone mode and is
+not deployed with the core project but is deployed with hte application using the core project.

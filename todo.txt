@@ -1,0 +1,2 @@
+ensure connectionpool is a singleton pattern and only creates one actual pool using classforname.getinstance
+like in the services initialization calls
